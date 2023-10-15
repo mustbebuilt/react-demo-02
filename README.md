@@ -2,7 +2,8 @@
 
 ## Backend
 
-Written in Typescript with Mongoose for a MongoDb Backend
+Written in Typescript with Mongoose for a MongoDb Backend.
+
 In terminal navigate to `backend` and compile typescript with
 
 `tsc`
@@ -15,7 +16,7 @@ Runs on port 3030.
 
 ## Frontend
 
-In terminal navigate to `frontend` and build in reactJS start with:
+In separate terminal window navigate to `frontend` and build in reactJS start with:
 
 `npm start`
 
